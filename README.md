@@ -1,12 +1,12 @@
 # BlackjackGame
 
-**Blackjack Game in C++**
+## **Blackjack Game in C++**
 
-**Overview**
+### **Overview**
 
 This project is a fully functional Blackjack game implemented in C++. It simulates a classic casino environment, allowing users to play against the house with all standard rules and mechanics of the game. The program is designed with modular and well-documented code to ensure readability, efficiency, and ease of maintenance.
 
-**Features**
+### **Features**
 
 **User vs. House:** Users can place bets, receive cards, and make decisions such as hitting, standing, doubling down, and splitting pairs as they try to beat the house.
 
@@ -22,5 +22,5 @@ The game was developed from scratch, with a focus on applying object-oriented pr
 **User Interaction**
 The user can play the game by making strategic decisions at each step—choosing whether to hit, stand, double down, or split pairs—while managing their bets and aiming to achieve a higher hand value than the house without exceeding 21.
 
-**Challenges & Solutions**
+### **Challenges & Solutions**
 Building the Blackjack game required meticulous planning, especially when structuring the game’s flow and logic. One challenge was implementing the random card distribution while maintaining fairness and efficiency. This was achieved through a robust shuffling algorithm and testing various game scenarios. Additionally, the project involved ensuring clear documentation, making the code accessible and modifiable for future enhancements.
